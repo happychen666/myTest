@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 
 66
 99
 33
-=======
-jgj
-popud
->>>>>>> ede5c4da9d03e99c9e499649d7ccdc4d795ffe10
