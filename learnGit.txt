@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-11
-33
-66
-99
-=======
-tt
-ww
-qq
-zz
->>>>>>> 9fe0d50419fd10a92eeeefebf348ef929cf508f0
+ff
+ff
+fff
+ff
+fff
