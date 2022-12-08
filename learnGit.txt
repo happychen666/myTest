@@ -1,4 +1,4 @@
-rrr
-tt
-uuu
-ww
+
+Git is a version control system.
+版本控制
+试试 git status
